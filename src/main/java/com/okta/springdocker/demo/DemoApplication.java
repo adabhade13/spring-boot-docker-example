@@ -13,12 +13,12 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-	@Configuration
+	/*@Configuration
 	static class OktaOAuth2WebSecurityConfigurerAdapter extends WebSecurityConfigurerAdapter {
 
 		@Override
 		protected void configure(HttpSecurity http) throws Exception {
 			http.authorizeRequests().anyRequest().authenticated();
 		}
-	}
+	}*/
 }
