@@ -27,4 +27,4 @@ spec:
     app: python                
   ports:
   - port: 5000
-    targetPort: 8080
+    targetPort: 8087
