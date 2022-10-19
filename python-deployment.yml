@@ -14,7 +14,7 @@ spec:
         app: python              
     spec:
       containers:
-      - image: anjurose/papp      
+      - image: avinashdabhade/papp      
         name: mypythonapp
 ---                                
 apiVersion: v1
